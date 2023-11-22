@@ -2,7 +2,7 @@
 
 ## Задача
 
-Сверстать сайт проектных систем
+Сверстать сайт проектных систем ([макет][url])
 
 ## Требования к верстке
 
@@ -13,3 +13,5 @@
 - **PixelPerfect** - точное совпадение с макетом
 
 ## Посмотреть сайт - https://osakac.github.io/Evklid/
+
+[url]: https://www.figma.com/file/ZckZUKF31dkAYWQQWufZtq/Евклид-(new)?node-id=406480%3A4006&mode=dev
